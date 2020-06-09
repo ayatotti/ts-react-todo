@@ -1,0 +1,51 @@
+{
+  "name": "ts-react-todo",
+  "version": "1.0.0",
+  "description": "React Todo Sample",
+  "main": "bundle.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build",
+    "clean": "gulp clean",
+    "watch": "gulp watch",
+    "server": "gulp server"
+  },
+  "author": "Ayato Yuki",
+  "license": "ISC",
+  "dependencies": {
+    "react": "",
+    "react-dom": "",
+    "react-redux": "",
+    "react-router": "",
+    "redux": ""
+  },
+  "devDependencies": {
+    "@types/react": "",
+    "@types/react-dom": "",
+    "@types/react-redux": "",
+    "@types/react-router": "",
+    "awesome-typescript-loader": "",
+    "babel-core": "",
+    "babel-preset-es2015": "",
+    "babel-preset-react": "",
+    "del": "",
+    "gulp": "",
+    "gulp-autoprefixer": "",
+    "gulp-clean-css": "",
+    "gulp-html5-lint": "",
+    "gulp-if": "",
+    "gulp-notify": "",
+    "gulp-plumber": "",
+    "gulp-stylint": "",
+    "gulp-stylus": "",
+    "gulp-tslint": "",
+    "gulp-uglify": "",
+    "gulp-webserver": "",
+    "require-dir": "",
+    "ress": "",
+    "tslint": "",
+    "tslint-eslint-rules": "",
+    "typescript": "",
+    "webpack-stream": ""
+  }
+}
